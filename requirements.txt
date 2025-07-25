@@ -1,0 +1,6 @@
+gemgis==1.1.8
+gempy==2024.2.0.2 
+geopandas==0.14.3
+rasterio==1.3.8
+shapely==2.0.3
+pyproj==3.6.1

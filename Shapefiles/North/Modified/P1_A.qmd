@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qgis>
+    <layer>
+        <title>P1_A</title>
+        <abstract>Hydrogeological Section P1_A in Mexico Basin, year 2024</abstract>
+        <keywords>Hydrogeological-section, QGIS, Python, Mexico Basin</keywords>
+        <author>Juan Camilo Montaño Caro</author>
+        <contact>jcmontanoc@comunidad.unam.mx</contact>
+    </layer>
+</qgis>
