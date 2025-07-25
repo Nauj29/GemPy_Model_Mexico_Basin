@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qgis>
+    <layer>
+        <title>Sections</title>
+        <abstract>Lengh and direcction in surface of topographic Sections in Mexico Basin, year 2024</abstract>
+        <keywords>surface section, QGIS, Python, Mexico Basin</keywords>
+        <author>Juan Camilo Montaño Caro</author>
+        <contact>jcmontanoc@comunidad.unam.mx</contact>
+    </layer>
+</qgis>

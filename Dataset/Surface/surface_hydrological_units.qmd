@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qgis>
+    <layer>
+        <title>surface_hydrological_units</title>
+        <abstract>surface_hydrological_units in Mexico Basin, year 2024</abstract>
+        <keywords>surface Hydrogeological units, QGIS, Python, Mexico Basin</keywords>
+        <author>Juan Camilo Montaño Caro</author>
+        <contact>jcmontanoc@comunidad.unam.mx</contact>
+    </layer>
+</qgis>

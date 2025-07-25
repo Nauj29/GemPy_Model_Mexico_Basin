@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qgis>
+    <layer>
+        <title>Faults</title>
+        <abstract>Regional Faults in Mexico Basin, year 2024</abstract>
+        <keywords>Regional faults, QGIS, Python, Mexico Basin</keywords>
+        <author>Juan Camilo Montaño Caro</author>
+        <contact>jcmontanoc@comunidad.unam.mx</contact>
+    </layer>
+</qgis>
