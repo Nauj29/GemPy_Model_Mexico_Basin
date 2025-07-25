@@ -98,7 +98,7 @@ This dataset includes 10 GemPy models that were used to build the regional hydro
   - Adapt — remix, transform, and build upon the material
 
   Under the following terms:
-  - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses   you or your use. [DOI:10.5281/zenodo.13852434](https://doi.org/10.5281/zenodo.13852434)
+  - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses   you or your use. [DOI:10.5281/zenodo.16423800](https://zenodo.org/records/16423800)
 
 
 ## Contact
